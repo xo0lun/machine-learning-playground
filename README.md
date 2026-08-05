@@ -1,4 +1,8 @@
 # Machine Learning Playground
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 A practical collection of Machine Learning algorithms, data preprocessing techniques, and model evaluation examples implemented in Python.
 
