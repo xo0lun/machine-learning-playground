@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 <p align="center">
-  <img src="images/banner.png" alt="Machine Learning Playground">
+  <img src="images/banner.jpg" alt="Machine Learning Playground">
 </p>
 
 A practical collection of Machine Learning algorithms, data preprocessing techniques, and model evaluation examples implemented in Python.
